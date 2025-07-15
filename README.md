@@ -30,8 +30,6 @@
 
 
 
-***
-
 ### 🐍 GitHub Contribution Snake
 
 <div align="center">
@@ -42,5 +40,4 @@
   </picture>
 </div>
 
-***
 
